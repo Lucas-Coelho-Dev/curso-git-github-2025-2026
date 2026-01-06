@@ -1,0 +1,8 @@
+COMANDOS DO GITBASH (TERMINAL):
+
+LS (lista todos os arquivos e pastas da onde você está no computador)
+CD (atalho para acessar locais e mudar você de lugar dentro do computador)
+PWD (PRINT WORK DIER - ATALHO PARA VER O CAMINHO QUE ESTOU ACESSANDO)
+LS -A (ARQUIVOS OCULTOS)
+MKDIR (CRIAR UMA PASTA NOVA)
+CD.. (VOLTAR PARA PASTA ANTERIOR)
