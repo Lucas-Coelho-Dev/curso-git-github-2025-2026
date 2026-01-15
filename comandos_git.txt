@@ -1,4 +1,4 @@
 git init . -> cria um repo git na pasta atual 
-git status -> mostra o status do trabalho
+git status -> mostra o babu santana
 git add nome_arquivo -> adiciona arquivo para ser comitado
-git commit - m "msg" -> alala
+git commit - m "msg" -> faz commit ulalaau
